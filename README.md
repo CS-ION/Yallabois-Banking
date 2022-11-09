@@ -1,5 +1,5 @@
 # Yallabois-Banking (group project for NBO Hackathon 2019)
-A Neo-Banking prototype creating using proto.io software. The prototype was developed to assist customers of the bank with various features of online banking in an efficient as well as user-friendly way. Check out frame.html to see how the prototype works in a real setting. The various features of the prototype is listed below. The prototype in its implementation is very basic/elementary and can be improved in various technical aspects.
+A Neo-Banking prototype creating using proto.io software. The prototype was developed to assist customers of the bank with various features of online banking in an efficient as well as user-friendly way. Check out frame.html to see how the prototype works in a real setting. The various features of the prototype is listed below. The prototype in its implementation is very basic/elementary and can be improved in various technical aspects as well as adding various other banking features like updating KYC, scanning cheques, generating e-statements, etc.
 
 ## Features 
 
